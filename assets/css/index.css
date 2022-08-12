@@ -203,7 +203,7 @@ body {
     padding: 10px 30px 10px 0;
   }
 }
-
+/* 
 @media only screen and (max-width: 767px) {
   .main-timeline:before {
     margin: 0;
@@ -250,4 +250,4 @@ body {
   .main-timeline .title {
     margin-bottom: 10px;
   }
-}
+} */
